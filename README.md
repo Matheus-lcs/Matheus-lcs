@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-![Banner Matheus Lucas](./assets/banner-github.png
 =======
 # 👋 Olá! Eu sou Matheus Lucas
 
@@ -59,4 +57,3 @@
 *"Transformando ideias em soluções."*
 
 </div>
->>>>>>> 08184d3228d3351aa8f2d863c6816dd7df780fd0
