@@ -3,10 +3,6 @@
 
 <img src="./assets/banner-github.png" alt="Banner Matheus Lucas" width="100%">
 
-<div align="center">
-  <img src="assets/banner-github.jpg" width="100%" alt="Banner Matheus Lucas - Desenvolvedor">
-</div>
-
 <h2 align="center">💻 Desenvolvedor em formação</h2>
 
 <p align="center">
