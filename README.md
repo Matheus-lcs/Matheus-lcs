@@ -1,4 +1,3 @@
-=======
 # 👋 Olá! Eu sou Matheus Lucas
 
 <img src="./assets/banner-github.png" alt="Banner Matheus Lucas" width="100%">
